@@ -1,0 +1,12 @@
+{
+    "require": {
+        "bramus/router": "~1.6",
+        "illuminate/database": "^9.15"
+    },
+    "autoload": {
+        "classmap": [
+            "classes",
+            "controllers"
+        ]
+    }
+}
